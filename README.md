@@ -1,5 +1,6 @@
 # registry-example
 
+
 This project was generated with the [Dojo CLI](https://github.com/dojo/cli) & [Dojo CLI create app command](https://github.com/dojo/cli-create-app).
 
 ## Build
